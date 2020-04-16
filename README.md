@@ -16,6 +16,8 @@ A free proportional coding font with ligatures
 
 ### All chars
 
+![All chars](showcases/all_chars.png)
+
 ## License
 
 ## Credits
