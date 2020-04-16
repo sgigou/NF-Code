@@ -18,6 +18,10 @@ A free proportional coding font with ligatures
 
 ![All chars](showcases/all_chars.png)
 
+### Ligatures
+
+![Ligatures](showcases/ligatures.png)
+
 ## License
 
 ## Credits
