@@ -1,6 +1,6 @@
 # NF-Code
 
-A free proportional coding font with ligatures
+![A free proportional coding font with ligatures.](showcases/illustrations/logo.png)
 
 ## Features
 
