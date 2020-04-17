@@ -18,10 +18,10 @@ The font is still young, and it will improve over time.
 
 NF Code only features Regular weight at the moment, but more is planned!
 
-- [x] Regular (#1)
-- [ ] Bold (#2)
-- [ ] Italic (#3)
-- [ ] Bold italic (#4)
+- [x] Regular
+- [ ] Bold ([#2](https://github.com/sgigou/NF-Code/issues/2))
+- [ ] Italic ([#3](https://github.com/sgigou/NF-Code/issues/3))
+- [ ] Bold italic ([#4](https://github.com/sgigou/NF-Code/issues/4))
 
 ### Ligatures
 
